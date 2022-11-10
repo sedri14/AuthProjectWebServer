@@ -1,0 +1,6 @@
+
+@Spring
+public class Application {
+
+
+}
